@@ -21,3 +21,6 @@ Execute o comando abaixo:
 
 ```bash
 docker-compose up -d
+
+
+## Aluno: Diego Augusto
