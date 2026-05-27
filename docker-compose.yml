@@ -7,7 +7,7 @@ services:
 
     environment:
       POSTGRES_USER: admin
-      POSTGRES_PASSWORD: admin123
+      POSTGRES_PASSWORD: Diego@1526
       POSTGRES_DB: vector_db
 
     ports:
